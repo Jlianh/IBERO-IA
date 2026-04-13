@@ -1,0 +1,31 @@
+origen,destino,distancia_km,transporte,hora,transbordos,tiempo_real_min
+Portal Norte,Calle 100,6,transmilenio,7,0,18
+Portal Norte,Héroes,8,transmilenio,8,0,22
+Calle 100,Universidades,10,transmilenio,18,1,35
+Suba,Portal Norte,12,transmilenio,6,1,28
+Portal Sur,Banderas,14,transmilenio,17,1,40
+Banderas,Av Jiménez,9,transmilenio,12,0,20
+Av Jiménez,Museo del Oro,2,transmilenio,10,0,6
+Portal 80,Polo,7,transmilenio,7,0,19
+Portal 80,Av Jiménez,11,transmilenio,18,1,34
+Portal Américas,Prado,16,transmilenio,6,1,36
+Portal Américas,Calle 26,13,transmilenio,19,1,42
+Portal Usme,Tunal,5,transmilenio,7,0,15
+Tunal,Restrepo,6,transmilenio,8,0,18
+Restrepo,Calle 45,8,transmilenio,17,1,30
+Calle 45,Héroes,9,transmilenio,18,0,25
+Héroes,Portal Norte,7,transmilenio,9,0,18
+Suba,Calle 100,10,bus,7,1,35
+Suba,Héroes,12,bus,18,1,45
+Engativá,Portal 80,5,bus,8,0,20
+Engativá,Calle 26,9,bus,17,1,38
+Kennedy,Portal Américas,4,bus,6,0,15
+Kennedy,Banderas,6,bus,18,0,28
+Bosa,Portal Sur,7,bus,7,0,25
+Bosa,Restrepo,12,bus,17,1,48
+Usme,Portal Usme,3,bus,6,0,12
+Usme,Tunal,8,bus,18,1,35
+Centro,Calle 26,4,bus,12,0,14
+Centro,Portal Norte,15,bus,18,2,60
+Chapinero,Héroes,3,bus,8,0,12
+Chapinero,Calle 100,5,bus,17,0,20
